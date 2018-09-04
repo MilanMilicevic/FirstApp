@@ -10,6 +10,7 @@ namespace NNV.Controllers
     {
         public ActionResult Index()
         {
+          
             return View();
         }
 
@@ -29,13 +30,16 @@ namespace NNV.Controllers
 
         public ActionResult Login()
         {
-          
 
             return View();
         }
 
 
+        public ActionResult NNV()
+        {
 
+            return View();
+        }
 
     }
 
