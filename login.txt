@@ -1,0 +1,205 @@
+﻿
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>PRVA</title>
+
+    <style>
+
+
+        .gkPage {
+            max-width: 1200px;
+        }
+
+
+        .gkPage {
+            max-width: 1200px;
+        }
+---------------------------------
+
+
+
+background: url(https://www.laguna.rs/_img/_fckupl/images/2015/2/dan-knjige.jpg) no-repeat center center fixed;
+        .login {
+            padding: 15px;
+            width: 400px;
+            min-height: 400px;
+            margin: 2% auto 0 auto;
+                }
+
+
+        body {
+            background: transparent;
+        }
+
+        body, input, button {
+            font-family: 'Source Sans Pro', sans-serif;
+        }
+
+
+        h2 {
+            font-size: 3em;
+            font-weight: 300;
+            color: rgba(255, 255, 255, 0.7);
+            display: inline-block;
+            padding-bottom: 5px;
+            text-shadow: 1px 1px 3px $shadow-color;
+        }
+
+
+
+        .input-group {
+            border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+            border-top: 1px solid rgba(255, 255, 255, 0.1);
+         
+        }
+
+        html {
+            background: url(https://www.laguna.rs/_img/_fckupl/images/2015/2/dan-knjige.jpg) no-repeat center center fixed;
+            -webkit-background-size: cover;
+            -moz-background-size: cover;
+            -o-background-size: cover;
+            background-size: cover;
+        }
+
+        
+      
+
+
+
+
+
+    </style>
+
+
+
+
+
+
+</head>
+
+
+
+
+
+
+
+
+
+<body>
+
+
+
+
+    <div class="login">
+        <div class="heading">
+            <h2>LOGIN</h2>
+            <form action="#">
+
+                <div class="input-group input-group-lg">
+                    <span class="input-group-addon"><i class="fa fa-user"></i></span>
+                    <input type="text" class="form-control" placeholder="Username or email">
+                </div>
+
+                <div class="input-group input-group-lg">
+                    <span class="input-group-addon"><i class="fa fa-lock"></i></span>
+                    <input type="password" class="form-control" placeholder="Password">
+                </div>
+
+                <button type="submit" class="float">Login</button>
+            </form>
+        </div>
+    </div>
+
+
+
+
+    <footer id="gkFooter">
+        <div class="gkPage">
+            <div id="gkFooterArea">
+                <a href="#gkBg" id="gkBackToTop">На почетак</a>
+
+
+            </div>
+
+
+            <p id="gkCopyrights">
+                &copy; 2003-2018 Рачунарски факултет - Београд
+                &nbsp;&nbsp;&nbsp;
+                <a href="https://www.facebook.com/rafakultet/"><i class="fa fa-facebook-square" aria-hidden="true"></i></a>
+            </p>
+
+
+        </div>
+    </footer>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</body>
+
+
+</html>
+----------------------------------------------------------------------------------------- STARI LOGIN
+
+
+    <div class="login">
+        <div class="heading">
+            <h2>LOGIN</h2>
+            <form action="#">
+
+                <div class="input-group input-group-lg">
+                    <span class="input-group-addon"><i class="fa fa-user"></i></span>
+                    <input type="text" class="form-control" placeholder="Username or email">
+                </div>
+
+                <div class="input-group input-group-lg">
+                    <span class="input-group-addon"><i class="fa fa-lock"></i></span>
+                    <input type="password" class="form-control" placeholder="Password">
+                </div>
+
+                <button type="submit" class="float">Login</button>
+            </form>
+        </div>
+    </div>
+------------------------------------------------------------------------------------------------------------NOVI LOGIN
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
